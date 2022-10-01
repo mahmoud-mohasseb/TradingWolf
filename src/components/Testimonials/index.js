@@ -40,18 +40,19 @@ const Testimonials = () => {
 </h2>
 </div>
 {/*  */}
-<div style={{display:"flex" ,justifyContent:"center" ,textAlign:"center"}}>
+{/* <div style={{display:"flex" ,justifyContent:"center" ,textAlign:"center"}}> */}
+<div className={styles.test} data-aos="fade-right">
 {data.map((item ,index)=>(
   <div
    className={styles.card}
-   data-aos="fade-right"
+   key={index}
   >
   <img className={styles.avatar} src={item.image} alt="Avatar" />
-  <div key={index}>
+  <div >
   <h3><b>{item.name}</b></h3> 
   <p>{item.title}</p>
   </div>
-</div> 
+ </div> 
 ))}
 </div>
 </div>
