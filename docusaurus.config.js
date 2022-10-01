@@ -9,7 +9,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'TradingWolf',
   tagline: 'IMPROVE TRADING SKILLS WITH SMART ALGORITHMS',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://tradingwolf.com/',
   baseUrl: '/',
   onBrokenLinks: "ignore",
   onBrokenMarkdownLinks: "ignore",
