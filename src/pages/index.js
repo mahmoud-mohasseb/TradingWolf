@@ -1,15 +1,14 @@
-import React from 'react';
-import clsx from 'clsx';
-import Link from '@docusaurus/Link';
-import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
-import Layout from '@theme/Layout';
-import HomepageFeatures from '@site/src/components/HomepageFeatures';
-import Slidercustomer from '@site/src/components/Slidercustomer';
+import React from "react";
+import clsx from "clsx";
+import Link from "@docusaurus/Link";
+import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
+import Layout from "@theme/Layout";
+import HomepageFeatures from "@site/src/components/HomepageFeatures";
+import Slidercustomer from "@site/src/components/Slidercustomer";
 import Testimonials from "@site/src/components/Testimonials";
 import HeroSection from "@site/src/components/HeroSection";
 import Realtime from "@site/src/components/Realtime";
-import styles from './index.module.css';
-
+// import styles from "./index.module.css";
 
 // function HomepageHeader() {
 //   const {siteConfig} = useDocusaurusContext();
@@ -30,19 +29,19 @@ import styles from './index.module.css';
 //   );
 // }
 export default function Home() {
-  const {siteConfig} = useDocusaurusContext();
+  const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="Description will go into a meta tag in <head />"
+    >
       {/* <HomepageHeader /> */}
       <main>
-        <HeroSection/>
-        <Testimonials/>
-        <Realtime/>
+        <HeroSection />
+        <Testimonials />
+        <Realtime />
         {/* <HomepageFeatures /> */}
         <Slidercustomer />
-      
       </main>
     </Layout>
   );
