@@ -5,7 +5,7 @@ tags:
   - Trading
   - tradingwolf
 authors:
-  - name: Garrison McMullen
+  - name: Robert Bolder
     title: Instruction Writer
     url: https://github.com/garrison0
     image_url: https://avatars.githubusercontent.com/u/4089393?v=4
@@ -29,6 +29,10 @@ Chart Patterns Cheat Sheet Ultimate Guide
 What are Chart Patterns?
 Types of Chart Patterns
 Top 10 Chart Patterns Cheat Sheet
+
+![HEAD AND SHOULDERS PATTERN](/img/head-shoulders-1.png.webp "HEAD AND SHOULDERS PATTERN")
+
+
 
 1. Head and Shoulders
 2. Double Top
@@ -58,6 +62,12 @@ Bilateral Chart: It lets you know that price might rise or fall, implying it is 
 Now, check out the ten chart patterns you can use for your technical analysis.
 
 Top 10 Chart Patterns Cheat Sheet
+
+![double top](/img/double-top.png.webp "double top")
+
+
+
+
 
 1. Head and Shoulders
    Head and shoulders trading
