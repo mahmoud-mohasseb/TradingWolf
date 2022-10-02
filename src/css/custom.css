@@ -30,7 +30,7 @@
 /* Overriding root Infima variables */
 [data-theme='dark'] {
   --ifm-color-primary: #4e89e8;
-  --search-local-highlight-color: #d23669;
+  --search-local-highlight-color: #4e89e8;
 }
 /* Styling one class specially in dark mode */
 [data-theme='dark'] .purple-text {

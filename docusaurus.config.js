@@ -108,7 +108,6 @@ const config = {
             label: 'Getting Started',
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
-
           {
             href: 'https://discord.com/invite/tradingwolf',
             className: "pseudo-icon discord-icon",
