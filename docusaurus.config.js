@@ -108,26 +108,28 @@ const config = {
             label: 'Getting Started',
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
+
           {
             href: 'https://discord.com/invite/tradingwolf',
             className: "pseudo-icon discord-icon",
             position: 'right',
           },
           {
-            href: "https://www.tradingwolf.com/pricing-plans/",
+            to: "https://www.tradingwolf.com/",
+            label: "OurWebsite",
+            position: "left",
+          },
+          {
+            to: "https://www.tradingwolf.com/pricing-plans/",
             label: "SignUp",
             position: "left",
           },
           {
-            href: "https://www.tradingview.com/u/LuxAlgo/#published-scripts",
+            to: "https://www.tradingview.com/u/LuxAlgo/#published-scripts",
             label: "TradingView",
             position: "left",
           },
-          {
-            href: "https://www.tradingwolf.com/",
-            label: "OurWebsite",
-            position: "left",
-          },
+        
         ],
       },
       footer: {
@@ -159,7 +161,7 @@ const config = {
               },
               {
                 label: 'technical-oscillators',
-                href: 'https://www.tradingwolf.com/features/technical-oscillators/',
+                to: 'https://www.tradingwolf.com/features/technical-oscillators/',
               },
             ],
           },
