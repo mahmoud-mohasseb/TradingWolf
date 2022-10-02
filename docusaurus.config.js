@@ -125,7 +125,7 @@ const config = {
             position: "left",
           },
           {
-            to: "https://www.tradingview.com/u/LuxAlgo/#published-scripts",
+            to: "https://www.tradingwolf.com/features/overlay-indicators/",
             label: "TradingView",
             position: "left",
           },
