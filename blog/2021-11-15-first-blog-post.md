@@ -9,10 +9,18 @@ authors:
     title: Instruction Writer
     url: https://github.com/garrison0
     image_url: https://avatars.githubusercontent.com/u/4089393?v=4
+    imageUrl: https://github.com/garrison0
 ---
-
 Chart Patterns Cheat Sheet Ultimate Guide
 Chart pattern puts stock market buying and trading into perspective. It plays an important role when it comes to analyzing the trading charts. You get to see the transition in the chart pattern and analyze it to make better trading decisions.
+
+![CHART PATTERN](/img/chart-patterns-cheat-sheet.png.webp "chart pattern")
+
+
+
+
+
+
 
 To know exactly what you are looking at, let’s get to know more about chart patterns.
 
@@ -60,7 +68,6 @@ Usually, the first and third are smaller than the second. However, they fall bac
 2. Double Top
    Double top trading
    This is another bearish reversal pattern that is frequently used by traders. In this, you will notice the price of the asset peaking before retracing to a level of support. Thereafter, it will climb up yet again, prior to reversing back permanently against the existing trend.
-
 3. Double Bottom
    Double bottom trading
    A double bottom chart pattern shows a period of selling, making the price of the asset drop below a level of support. Then it shows a level of resistance before showing a downward dropping trend, again. Ultimately, the trend is reversed and starts an upward motion since the market becomes more bullish.
@@ -103,7 +110,6 @@ The pattern is formed when the price converges with a sequence of higher troughs
 9. Ascending Triangle
    Ascending triangle trading
    The ascending triangle pattern is a bullish continuation pattern that is a sign of the continuation of an uptrend. This pattern often has two or more identical peak highs that enable the horizontal line to be drawn. The trend line is a sign of an overall uptrend, but the horizontal line shows the level of resistance for that specific asset.
-
 10. Descending Triangle
     Descending triangle
     Like an ascending triangle, a descending triangle is a continuation chart pattern. But unlike the former, the latter shows a down-trending bearish continuation. Usually, a trader enters a short position in a descending triangle to make money from a falling market.
