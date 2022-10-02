@@ -2,8 +2,8 @@
 title: Chart Patterns Cheat Sheet Ultimate Guide
 slug: Chart Patterns
 tags:
-  - foo
-  - bar
+  - Trading
+  - tradingwolf
 authors:
   - name: Garrison McMullen
     title: Instruction Writer
