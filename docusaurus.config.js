@@ -150,21 +150,26 @@ const config = {
               // },
               {
                 label: 'FQA',
-                to: '/docs/fqa/markdown-features',
+                to: '/docs/category/-fqa',
               },
+          
               {
                 label: 'Technical-analytics',
-                to: '/docs/fqa/manage-docs-versions',
+                to: '/docs/category/-technical-analytics',
+              },
+              {
+                label: 'technical-oscillators',
+                href: 'https://www.tradingwolf.com/features/technical-oscillators/',
               },
             ],
           },
           {
             title: 'Community',
             items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
+              // {
+              //   label: 'Stack Overflow',
+              //   href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              // },
               {
                 label: 'Discord',
                 href: 'https://discord.com/invite/tradingwolf',
