@@ -1,5 +1,5 @@
 ---
-title: Chart Patterns Cheat Sheet Ultimate Guide
+title: Chart Patterns Cheat Sheet Ultimate Guide Test
 slug: Chart Patterns
 tags:
   - Trading
